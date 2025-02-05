@@ -1,2 +1,8 @@
 # hello-world
-This repository is for practicing the GitHub Flow.
+
+Hello everyone!
+I like programming HTML, Javascript, Python, Java, C/C++,.. and more.
+
+Hope everybody enjoy my hello-world!
+
+The sun is shinning there out!
